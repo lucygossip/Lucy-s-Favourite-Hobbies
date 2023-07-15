@@ -10,4 +10,10 @@
     
     /* Borders */
     --brand-default-border: 2px solid var(--brand-near-black);
+    --brand-default-box-shadow: 2px 2px 5px 2px var(--brand-gray);
+    
+    /* Fonts */
+    --brand-font-serif: Georgia, serif;
+    --brand-font-sans-serif: Helvetica, sans-serif;
+
 }

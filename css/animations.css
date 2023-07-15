@@ -1,0 +1,23 @@
+@keyframes openingAnimation {
+    0% { 
+        opacity: 20%; 
+        transform:translateY(-100px); 
+    }
+    50% { 
+        transform: translateY(150px) ;
+    }
+    75% { 
+        transform: translateY{-100px}; 
+    }
+    100% { 
+        opacity: 100% ;
+    }
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
+}

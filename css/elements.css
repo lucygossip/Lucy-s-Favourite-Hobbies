@@ -5,14 +5,19 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
-    font-family: helvetica, sans-serif;
+    font-family: var(--brand-font-sans-serif);
     background-color:var(--white);
     font-size: 1em;
     color: var(--brand-near-black);
+    animation: fadeInAnimation 3s;
 }
 h1 {
     text-align: center;
     color: var(--white);
+    font-family: var(--brand-font-serif);
+    text-transform: uppercase;
+    letter-spacing: 0.8rem;
+    line-height:3rem;
 }
 a {
     text-decoration: none;
