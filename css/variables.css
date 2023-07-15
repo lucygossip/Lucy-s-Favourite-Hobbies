@@ -1,0 +1,13 @@
+:root {
+    /* Colors */
+    --brand-near-black: #2E1114;
+    --brand-dark-red: #501B1D;
+    --brand-lilac: #64485C;
+    --brand-light-lilac: #83677B;
+    --brand-gray: #ADADAD;
+    --white: #fff;
+    --black: #ddd;
+    
+    /* Borders */
+    --brand-default-border: 2px solid var(--brand-near-black);
+}
