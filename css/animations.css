@@ -4,13 +4,13 @@
         transform:translateY(-100px); 
     }
     50% { 
-        transform: translateY(150px) ;
+        transform: translateY(150px);
     }
     75% { 
         transform: translateY{-100px}; 
     }
     100% { 
-        opacity: 100% ;
+        opacity: 100%;
     }
 }
 @keyframes fadeInAnimation {
